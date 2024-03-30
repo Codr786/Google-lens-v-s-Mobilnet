@@ -1,0 +1,32 @@
+#img_1{
+    height:140px;
+    width:330px;
+}
+h2{
+    color:red;
+    size:10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#btn_1{
+    size:30px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#img_2{
+    height:70px;
+    width:220px;
+}
+h5{
+    font-size:25px;
+    color: #704264;
+    background-color: #EEEEEE;
+}
+b{
+    font-size:25px;
+    color: #76ABAE;
+    background-color: #EEEEEE;
+}
+p{
+    font-size:20px;
+    color: #222831;
+
+}
